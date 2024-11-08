@@ -3251,12 +3251,14 @@ hr {
   font-size: 14px;
   font-weight: 500;
   display: block;
-  margin-bottom: 10px
+  margin-bottom: 10px;
 }
+
+
 
 .more-btn i {
   color: #161e46;
-  background: transparent;
+  background: transparent ;
   width: 38px;
   height: 38px;
   display: inline-block;
@@ -3268,7 +3270,8 @@ hr {
   -moz-transition: all .4s ease-out 0s;
   -ms-transition: all .4s ease-out 0s;
   -o-transition: all .4s ease-out 0s;
-  transition: all .4s ease-out 0s
+  transition: all .4s ease-out 0s;
+  border:orange 2px solid;
 }
 
 .more-btn:hover {
