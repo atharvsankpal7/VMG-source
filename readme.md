@@ -1,3 +1,9 @@
+# Made using 11ty
+
+refer to [https://www.11ty.dev/docs/]()
+
+# Copyright
+
 Thank you for using our template!
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
