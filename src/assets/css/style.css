@@ -574,6 +574,79 @@ hr {
   background: #fff
 }
 
+/*BUILD COMPONENTS START */
+
+.buildcomponents {
+  padding: 20px;
+
+}
+
+.buildcomponents .text-field{
+  padding-top: 60px;
+}
+
+.buildcomponents .title{
+  padding-left: 35px;
+  letter-spacing: 2px;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.primarycomponents .text-field ,
+.claddingpanels .text-field ,
+.multistoreyed .text-field
+{
+  padding-left: 50px;
+}
+
+.secondarycomponents{
+  padding-top: 70px;
+}
+
+.secondarycomponents img{
+  height: 100%;
+  width: 100%;
+  padding-top: 25px;
+  padding-left: 50px;
+  /* cursor: pointer; */
+  /* margin-bottom: 15px; */
+}
+
+.claddingpanels{
+  padding-top: 80px;
+}
+.claddingpanels img{
+  width: 100%;
+  height: 110%;
+}
+
+.buildwithmezz{
+  padding-top: 8rem;
+}
+
+.buildwithmezz img
+{
+  height: 120%;
+  width: 100%;
+  padding-left: 35px;
+}
+
+.multistoreyed{
+  padding-top: 8rem;
+}
+
+.multistoreyed img{
+  width: 100%;
+  height: 100%;
+}
+.multistoreyed .text-field{
+  padding-top: 40px;
+}
+
+/* BUILD COMPONENTS END */
+
 .mt-5 {
   margin-top: 5px
 }
