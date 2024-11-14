@@ -1,6 +1,6 @@
 ---
 layout: service_details.njk
-title: Accessories Components hemat yadab
+title: Accessories Components
 titleImg: /assets/img/service/Accessories-Components.png
 titleDescription: High-Quality Accessories for Enhanced Building Performance
 img: /assets/img/service/Accessories-Components.png
