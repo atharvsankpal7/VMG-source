@@ -1,0 +1,33 @@
+.product-sections .row {
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.product-sections .row:hover {
+    transform: translateY(-10px); 
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); 
+}
+
+
+.product-sections .row img {
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.product-sections .row:hover img {
+    transform: scale(1.05); 
+    filter: brightness(1.1); 
+}
+
+
+.product-sections .title {
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.product-sections .row:hover .title {
+    color: #FF7F32; 
+    transform: translateX(10px); 
+}
+
+
+
